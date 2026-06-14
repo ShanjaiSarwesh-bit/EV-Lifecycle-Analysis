@@ -147,21 +147,6 @@ This project performs a cradle-to-grave sustainability analysis of an Electric V
 
 ---
 
-# 📂 Repository Structure
-
-```
-EV-Lifecycle-Analysis
-│
-├── Dataset
-├── Graphs
-├── Images
-├── Presentation
-├── Report
-├── README.md
-```
-
----
-
 # 📚 References
 
 1. International Energy Agency (IEA) – Global EV Outlook.
