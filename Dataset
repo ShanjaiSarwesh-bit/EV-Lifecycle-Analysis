@@ -1,1 +1,103 @@
+# 📊 Dataset 1: CO₂ Emissions
 
+| Lifecycle Stage | EV (kg CO₂) | ICE (kg CO₂) |
+|----------------|------------:|-------------:|
+| Raw Material Extraction | 1800 | 1400 |
+| Manufacturing | 3500 | 2200 |
+| Usage Phase | 2200 | 8500 |
+| Recycling | 500 | 700 |
+| Total Emissions | 8000 | 12800 |
+
+---
+
+# 🏭 Dataset 2: Manufacturing Impact
+
+| Parameter | EV | ICE Vehicle |
+|------------|----|------------|
+| Battery Pack | Yes | No |
+| Engine | No | Yes |
+| Manufacturing Emissions (kg CO₂) | 3500 | 2200 |
+| Energy Requirement (kWh) | 15000 | 10000 |
+
+---
+
+# ⚡ Dataset 3: Energy Consumption Analysis
+
+| Parameter | EV | ICE Vehicle |
+|------------|----|------------|
+| Energy Source | Electricity | Petrol |
+| Efficiency (%) | 90 | 30 |
+| Consumption | 18 kWh/100 km | 7 L/100 km |
+| Tailpipe Emission | Zero | High |
+| Maintenance Cost | Low | High |
+
+---
+
+# 🔋 Dataset 4: Materials Used
+
+| Material | EV | ICE Vehicle |
+|----------|---:|---:|
+| Lithium | 1 | 0 |
+| Nickel | 1 | 0 |
+| Cobalt | 1 | 0 |
+| Graphite | 1 | 0 |
+| Copper | 1 | 1 |
+| Aluminum | 1 | 1 |
+| Steel | 1 | 1 |
+| Petrol/Diesel | 0 | 1 |
+
+**Note:**  
+1 = Present  
+0 = Not Present
+
+---
+
+# ♻️ Dataset 5: Recycling Impact
+
+| Material | EV Recovery (%) | ICE Recovery (%) |
+|----------|---------------:|---------------:|
+| Lithium | 90 | 0 |
+| Nickel | 95 | 0 |
+| Cobalt | 95 | 0 |
+| Copper | 95 | 90 |
+| Aluminum | 90 | 85 |
+| Steel | 85 | 90 |
+
+---
+
+# 💰 Dataset 6: Lifetime Cost Comparison
+
+| Parameter | EV | ICE |
+|-----------|----|----|
+| Initial Cost | High | Moderate |
+| Fuel Cost | Low | High |
+| Maintenance Cost | Low | High |
+| Total Lifetime Cost | Lower | Higher |
+
+---
+
+# 🌍 Dataset 7: Environmental Impact Score
+
+| Parameter | EV Score | ICE Score |
+|-----------|---------:|----------:|
+| Carbon Emission | 2 | 8 |
+| Air Pollution | 2 | 8 |
+| Fossil Fuel Dependence | 2 | 8 |
+| Sustainability | 8 | 5 |
+
+**Scale:**  
+- 1 = Best  
+- 10 = Worst  
+- For Sustainability, higher values are better.
+
+---
+
+# 🚗 Dataset 8: Vehicle Performance
+
+| Parameter | EV | ICE Vehicle |
+|-----------|---:|------------:|
+| Efficiency (%) | 90 | 30 |
+| Operating Cost (₹/km) | 1.5 | 6 |
+| Annual Maintenance Cost (₹) | 5000 | 15000 |
+| Vehicle Lifetime (Years) | 15 | 15 |
+| Driving Range (km) | 400 | 600 |
